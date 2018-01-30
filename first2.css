@@ -1,0 +1,18 @@
+ body{background-image: url(images5.jpg);
+      background-repeat: no-repeat;
+      background-size:100% 100%;
+      font-weight: bold;
+      font-size: 20px;} 
+h1{
+   font-size: 150px;
+   text-transform: uppercase;
+   color:purple;}
+   a{float:right;
+     color: red;
+     font-size: 20px;} 
+     #pop{background-color:grey;
+        width:36%;}
+        #push{background-color: grey;
+              font-weight: bold;
+              height:40%;
+              width: 18%;}
