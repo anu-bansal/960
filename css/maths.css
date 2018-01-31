@@ -1,0 +1,169 @@
+ 
+.indexBody{
+	    background-image: url(../images/maths13.jpg);
+        background-repeat: no-repeat;
+        background-size:100% 100%;
+          } 
+
+.indexHeading{
+        font-size: 150px;
+        text-transform: uppercase;
+        color:purple;
+          }
+  
+.indexLink{ 
+	    color: red;
+        font-size: 40px;
+          } 
+
+.registerBody{
+	    background-image: url(../images/images5.jpg);
+        background-repeat: no-repeat;
+        background-size:100% 100%;
+        font-weight: bold;
+        font-size: 20px;
+         } 
+
+.registerInput{ 
+	    background-color:grey;
+        width:36%;
+         }
+
+.registerButton{
+	    border: 2px;
+	    background-color: grey;
+        font-weight: bold;
+        height:40%;
+        width: 18%;
+         }
+
+.registerImage{
+	    height:100%;
+	    width:100%;
+	     }          
+
+.courseText{
+        font-size: 120%;
+         }
+.courseForm{
+	    font-weight: bold;
+        font-size: 120%; 
+        margin-bottom: 70%;
+         }
+
+.courseHeading{
+	    font-size: 70px;
+        text-transform: uppercase;
+        color:red;
+         }
+
+.googleSubmit{
+	    width: 60%;
+	     }
+
+.courseLink{
+	    margin-top: 210px;
+        color: red;
+        font-size: 30px;
+        text-align:center;
+         }
+.courseImage{
+	    width:60%;
+         }         
+
+.contentHeading{
+        font-size: 100px;
+        text-transform: uppercase;
+        color:purple;
+        margin-bottom: 10%;
+         }
+
+.content1{
+	    font-size: 30px;
+        text-transform: uppercase;
+        color:red;
+         }
+
+.content2{
+	    font-size: 30px;
+        text-transform: uppercase;
+        color:green;
+         }
+
+.contentLink{
+	    text-decoration:none;
+        color:red;
+        text-align:center;
+         }
+
+.contentBody{
+	    background-image: url(../images/images4.jpg);
+        background-repeat: no-repeat;
+        background-size:100% 100%;
+         }
+
+.contentText{
+	    text-decoration: none;
+        }  
+
+.historyText{
+        background:pink;
+        color: black;
+         }      
+.historyBody{
+	    background-image: url(../images/download2.jpg);
+        background-size: 100% 100%;
+        background-attachment: fixed;
+         }
+.historyHeading{
+ 	    text-transform: uppercase;
+        color:blue;
+        font-size: 200%;
+         }
+
+.historyImages{
+	    height:250px;
+        width:250px;
+         }
+
+.historyLink{
+	    text-align:center;
+	     }
+
+.shapeBody{
+	    background-image: url(../images/maths10.jpg);
+        background-size: 100% 100%;
+         }
+
+.shapeHeading{
+        font-size: 110px;
+        text-transform: uppercase;
+        color:brown;
+         }
+
+.trigonometryHeading{
+        font-size: 110px;
+        text-transform: uppercase;
+        color:blue;
+         }
+.trigonometryBody{
+	    background-image: url(../images/pyth2.jpg);
+        background-repeat:repeat;
+        background-size:100% 100%;
+         }
+
+.algebraHeading{
+        font-size: 110px;
+        text-transform: uppercase;
+        color:green;
+         }
+
+.algebraBody{
+	    background-image: url(../images/download4.jpg);
+        background-size: 100% 100%;
+         }
+
+a:link{color:orange;}
+a:visited{color:blue;}
+a:active{font-weight:bold;}
+a:hover{letter-spacing:5px;}
